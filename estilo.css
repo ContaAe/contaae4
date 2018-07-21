@@ -1,0 +1,59 @@
+body{
+    margin: 5;
+    background-color: white;
+}
+h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    background-color: gray;
+    height: 80px;
+    display: flex;  
+    align-items: center;
+    justify-content: space-evenly; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+    color: black;   
+}
+
+.linkdecima{
+    color: black;
+    text-decoration: none;
+    font-size: 18pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32pt
+
+}
+
+h3{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section{ 
+    margin: 20px auto;
+    display: flex;
+    width: 80vw;
+    background-color: lightgray}
+
+#video{
+    margin: 40px left;
+    height: 200px;
+    width: 350px;
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+#logo
+
+{height: 80px;
+    width: 140px;
+}
